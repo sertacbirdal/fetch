@@ -1,5 +1,4 @@
 # window.fetch polyfill
-
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/JakeChampion/fetch/badge)](https://securityscorecards.dev/viewer/?uri=github.com/JakeChampion/fetch)
 
 The `fetch()` function is a Promise-based mechanism for programmatically making
